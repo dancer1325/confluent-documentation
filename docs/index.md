@@ -11,13 +11,15 @@
     * TODO:
     * [Tableflow](topics.tableflow.overview.md)
       * TODO:
-  * TODO:
+  * [Govern Data Streams](stream-governance.index.md)
+    * TODO:
   * [Connect -- to -- External Systems](connectors.index.md)
     * TODO:
     * [Install Custom Plugins & Custom Connectors](connectors.bring-your-connector.overview.md)
       * TODO:
     * TODO:
   * TODO:
+  * [Glossary](glossary.md)
 * [Platform](platform.overview.md)
   * TODO:
 * [CLI](confluent-cli.overview.md)
