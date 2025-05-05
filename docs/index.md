@@ -24,7 +24,7 @@
     * TODO:
   * TODO:
   * [Glossary](glossary.md)
-* [Platform](platform.overview.md)
+* Platform
   * TODO:
   * [ksqlDB and Kafka Streams](platform.current.streams-ksql.md)
     * ksqlDB
@@ -36,6 +36,10 @@
     * [Confluent Platform Schema Registry Tutorial](platform.current.schema-registry.schema_registry_onprem_tutorial.md)
     * TODO:
   * TODO:
+  * [Ansible Playbooks](ansible.current.overview.md)
+    * TODO:
+  * [Confluent for Kubernetes](operator.current.overview.md)
+    * TODO:
 * [CLI](confluent-cli.overview.md)
   * TODO:
 * Learn
@@ -62,3 +66,4 @@
     * TODO:
     * [Spring Boot](get-started.spring-boot.md)
     * TODO:
+* 
