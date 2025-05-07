@@ -25,6 +25,23 @@
   * TODO:
   * [Glossary](glossary.md)
 * Platform
+  * Get Started
+    * [Platform Overview](platform.current.get-started.platform.md)
+    * Quick Start
+    * TODO:
+    * [Tutorial: Set Up a Multi-Broker Kafka Cluster](platform.current.get-started.tutorial-multi-broker.md)
+    * TODO:
+  * [Install & Upgrade](platform.current.installation.overview.md)
+    * TODO:
+    * Manually
+      * TODO:
+      * Docker
+        * Install
+        * Configure
+        * Image Reference
+        * Developer Guide
+      * TODO:
+    * TODO:
   * TODO:
   * [ksqlDB and Kafka Streams](platform.current.streams-ksql.md)
     * ksqlDB
