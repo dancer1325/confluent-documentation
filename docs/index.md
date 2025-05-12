@@ -75,6 +75,8 @@
     * Kafka Internals
       * The Fundamentals
       * TODO:
+    * [Designing Event-Driven Microservices](Designing%20Event-Driven%20Microservices.md)
+      * TODO:
     * TODO:
   * [tutorials](https://developer.confluent.io/tutorials/)
     * TODO:
