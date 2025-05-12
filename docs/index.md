@@ -69,6 +69,8 @@
       * TODO:
     * [Apache Flink](faq.apache-flink.md)
       * TODO:
+  * Events
+    * [Summit London 2023 - Outbox pattern](summitLondon2023OutboxPattern.md)
 * [Confluent Developer](developer.confluent.io.md)
   * [courses](https://developer.confluent.io/courses)
     * TODO:
@@ -76,6 +78,9 @@
       * The Fundamentals
       * TODO:
     * [Designing Event-Driven Microservices](Designing%20Event-Driven%20Microservices.md)
+      * TODO:
+      * [Dual write problem](dualWriteProblem.md)
+      * [Transactional Outbox pattern](Transactional%20Outbox%20pattern.md)
       * TODO:
     * TODO:
   * [tutorials](https://developer.confluent.io/tutorials/)
@@ -85,4 +90,5 @@
     * TODO:
     * [Spring Boot](get-started.spring-boot.md)
     * TODO:
-* 
+* Others
+  * [Medium - Publishing Events to Kafka using an Outbox Pattern](mediumOutboxPattern.md)
